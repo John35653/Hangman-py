@@ -42,6 +42,7 @@ REPO = "John35653/Hangman-py"
 #         print(".",end=" ")
 #         sys.stdout.flush()
 #         time.sleep(1)
+# will come back to this function when I study more on how to automatically update a program
 
 POSSIBLE_WORDS_1P: dict = {
     "hello": "A greeting",
