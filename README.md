@@ -1,3 +1,5 @@
+To launch the program, navigate to the src file, and type `python hang.py` in the command line.
+
 ### ***Navigating the Menus***
 - Pressing "b" at any point in the menus should take you back to the page before it.<br>
 - At any given time, you can type Exit or exit to quit the program.<br>
